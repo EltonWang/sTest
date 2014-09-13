@@ -18,7 +18,7 @@
     "fs-extra": "~0.11.1",
     "cheerio": "*",
     "underscore": "*",
-    "iconv": "*",
+    "iconv-lite": "~2.1.4",
     "mongoose": "*"
   }
 }

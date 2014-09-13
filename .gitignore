@@ -1,2 +1,9 @@
 .idea/workspace.xml
 node_modules/
+/config.js
+builds
+.idea
+/cache
+.nodemonignore
+daemon
+beacon-builder.log
