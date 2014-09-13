@@ -7,3 +7,4 @@ builds
 .nodemonignore
 daemon
 beacon-builder.log
+stockData/
